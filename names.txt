@@ -4,3 +4,6 @@ Oranges
 Lemons
 Grapes 
 Kiwi
+Pear 
+Peaches 
+
