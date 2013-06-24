@@ -2,4 +2,5 @@ Make a few changes here in this exercise.
 Now making a list of stuff 
 Oranges
 Lemons
-
+Grapes 
+Kiwi
